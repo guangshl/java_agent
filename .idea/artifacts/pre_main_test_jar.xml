@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="pre_main_test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pre_main_test_jar</output-path>
+    <root id="root">
+      <element id="archive" name="pre_main_test.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/pre_main_test/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="pre_main_test" />
+      </element>
+      <element id="library" level="project" name="Maven: javassist:javassist:3.12.1.GA" />
+    </root>
+  </artifact>
+</component>
